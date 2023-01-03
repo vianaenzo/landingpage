@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+main {
+    min-width: 300px;
+    max-width: 1600px;
+    height: 1200px;
+    margin: auto;
+}
+
+
+.greenpage {
+    background-color: #0F2D25;
+}
+
+.imagelogo img {
+    max-width: 150px;
+    max-height: 52px;
+    position: absolute;
+    left: 48%;  
+    padding-bottom: 30px;
+    
+}
+
+.greenpage h1 {
+    color: white;
+    font-size: 4em;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+.greenpage p {
+    text-align: center;
+    color: white;
+    font-size: 1.6em;
+    padding: 30px;
+    font-weight: 100;
+
+}
+
+
+.formulario {
+    text-align: center;
+    padding: 10px;
+}
+
+input {
+    padding: 15px;
+    min-width: 300px;
+    max-width: 400px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #008060;
+    max-width: 130px
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+.marketing {
+    min-height: 200px;
+}
+
+.marketing p {
+     text-align: center;
+    color: white;
+    font-size: 0.8em;
+    padding-bottom: 80px;
+    font-weight: 100;
+
+}
+
+.imagemarketing {
+    margin-top: -60px;
+    background-color: #0F2D25;
+    max-height: 250px;
+}
+
+
+.imagemarketing img {
+
+    max-height: 1030px;
+    width: 70vw;
+    display: block;
+    margin: auto;   
+    
+}
+
+
+
+
+
