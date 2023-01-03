@@ -96,13 +96,12 @@ a {
 
 
 .imagemarketing img {
-    min-height: 450px;
-    min-width: 400px;
+    min-height: 500px;
+    min-width: 200px;
     width: 65vw;
     display: block;
     margin: auto;  
-    
-    
+ 
 }
 
 
