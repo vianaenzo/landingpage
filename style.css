@@ -18,20 +18,22 @@ main {
 
 .greenpage {
     background-color: #0F2D25;
+    
 }
 
 .imagelogo img {
     max-width: 150px;
     max-height: 52px;
     position: absolute;
-    left: 48%;  
+    left: 45%;  
     padding-bottom: 30px;
+    padding-top: 10px;
     
 }
 
 .greenpage h1 {
     color: white;
-    font-size: 3.3em;
+    font-size: 3vw;
     text-align: center;
     padding-top: 80px;
     padding-bottom: 10px;
@@ -40,7 +42,7 @@ main {
 .greenpage p {
     text-align: center;
     color: white;
-    font-size: 1.4em;
+    font-size: 1.2em;
     padding: 30px;
     font-weight: 100;
 
@@ -94,14 +96,13 @@ a {
 
 
 .imagemarketing img {
-
-    max-height: 1030px;
-    width: 70vw;
+    min-height: 450px;
+    min-width: 400px;
+    width: 65vw;
     display: block;
-    margin: auto;   
+    margin: auto;  
     
 }
-
 
 
 
