@@ -76,34 +76,33 @@ a {
 }
 
 .marketing {
-    min-height: 200px;
+    min-height: 320px;
 }
 
 .marketing p {
-     text-align: center;
-    color: white;
-    font-size: 0.8em;
-    padding-bottom: 80px;
-    font-weight: 100;
+    text-align: center;
+   color: white;
+   font-size: 0.8em;
+   padding-bottom: 80px;
+   font-weight: 100;
 
 }
 
 .imagemarketing {
-    margin-top: -60px;
-    background-color: #0F2D25;
-    max-height: 250px;
+   margin-top: -60px;
+   background-color: #0F2D25;
+   max-height: 250px;
 }
 
 
 .imagemarketing img {
-    min-height: 70vh;
-    min-width: 10vw;
-    max-width: 65vw;
-    display: block;
-    margin: auto;  
- 
-}
+   min-height: 70vh;
+   min-width: 10vw;
+   max-width: 65vw;
+   display: block;
+   margin: auto;  
 
+}
 
 
 
